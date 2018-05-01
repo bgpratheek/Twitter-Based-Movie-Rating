@@ -1,5 +1,8 @@
 # Twitter-Based-Movie-Rating
 With microblogging platforms such as Twitter generating huge amounts  of textual data every day, the possibilities of knowledge discovery through Twitter data becomes increasingly relevant. Similar to the public voting mechanism on websites such as the Internet Movie Database (IMDb) that aggregates movies ratings, Twitter content contains reflections of public opinion about movies. This study aims to explore the use of Twitter content as textual data for predicting the entertainment rating. In this study, we will be extracting tweets from the Twitter API and predict the sentiment involved.Each tweet that we extract from the twitter should be categorized as a positive or negative tweet. We calculate the rating by the total of positive tweets by the total number of tweets.Results will be showing rating developed by our application is compared to IMDB and Rotten Tomatoes.
+
+
+
 Steps for Running this project:
 Necessary python packages that need to be installed in the machine.
 1.tweepy
